@@ -9,6 +9,7 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 
 ## Algorithm
 1. Import the required libraries and load the dataset (Salary.csv).
+
 2.Select the independent variable (Level) as feature X and the dependent variable (Salary) as target y.
 
 3.Split the dataset into training data (70%) and testing data (30%).
